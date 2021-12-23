@@ -1,4 +1,3 @@
-
 sudo apt install realtek-rtl88xxau-dkms
 sudo apt install dkms
 git clone https://github.com/aircrack-ng/rtl8812au
