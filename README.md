@@ -1,2 +1,4 @@
 # bash_scripts
-bash scirpts
+
+After downloading cd to directory
+and type ./kali.sh
